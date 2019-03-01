@@ -1,0 +1,3 @@
+from publish_method import publish_state
+
+publish_state('1330011795ac8cdf1d7c6b081b9ddd114db77cea0e670bd67132ecf4dc7e7873','0')
